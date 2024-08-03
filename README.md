@@ -1,5 +1,5 @@
 
-# Projeto ExtremoSabor
+# Projeto Restaurante
 
 Projeto desenvolvido para interesses comerciais do grupo ExtremoSabor.
 
