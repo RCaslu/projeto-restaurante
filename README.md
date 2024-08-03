@@ -1,7 +1,7 @@
 
 # Projeto Restaurante
 
-Projeto desenvolvido para interesses comerciais do grupo ExtremoSabor.
+Projeto desenvolvido para interesses comerciais de um restaurante veridico.
 
 ## Surgimento do Projeto
 O projeto foi criado quando eu estava ainda no meu primeiro semestre da faculdade de ciências da computação, onde tive como primeiro meio de introdução a linguagem de programação "Python". Antes da faculdade nunca tinha programado, porém, ao ingressar me interessei tanto pela área que decidi passar a maior parte do meu tempo estudando, e dessa forma conheci o dono do grupo ExtremoSabor, que me apresentou sua necessidade de um programa capaz de gerenciar o caixa de seu estabelecimento. Ainda sem ideia de como começar e como programar decidi colocar minha força de vontade e dedicação para jogo e o final foi a entrega desse projeto. Hoje 2 anos depois, só tenho a agradecer por todas as portas que esse projeto tem aberto em minha vida, espero que gostem.
