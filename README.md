@@ -11,7 +11,7 @@ Contratado pela empresa ExtremoSabor, fui o responsável pela idealização e cr
 
 
 ## Tecnologias utilizadas no projeto 🪐
-O projeto foi idealizado e criado utilizando totalmente a linguagem de programação e suas bibliotecas. 
+O projeto foi idealizado e criado utilizando totalmente a linguagem de programação python e suas bibliotecas. 
 
 
 ## 🔎 Contato
